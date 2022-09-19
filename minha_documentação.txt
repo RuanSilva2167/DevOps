@@ -1,0 +1,67 @@
+-A palavra "DevOps" foi formada pela combinação de "desenvolvimento" e
+"operações", que fornece um ponto de partida para entender exatamente o que
+as pessoas geralmente querem dizer quando dizem "DevOps";
+- Notavelmente, o DevOps não é um processo, uma tecnologia ou um padrão;
+- Muitos se referem ao DevOps como uma "cultura"; Também usa-se o termo
+-“movimento DevOps” ao falar sobre tópicos como taxas e tendências de adoção
+para o futuro e “ambiente DevOps” para se referir a uma organização de TI que
+adotou uma cultura DevOps
+-“O DevOps representa uma mudança na cultura de TI, com foco na entrega
+rápida de serviços de TI através da adoção de práticas ágeis e enxutas no
+contexto de uma abordagem orientada ao sistema. O DevOps enfatiza as
+pessoas (e a cultura) e procura melhorar a colaboração entre as operações e as
+equipes de desenvolvimento. As implementações do DevOps utilizam tecnologia
+- especialmente ferramentas de automação que podem alavancar uma
+infraestrutura cada vez mais programável e dinâmica da perspectiva do ciclo de
+vida.” Gartner
+
+De onde veio o DevOps?
+
+- Desenvolvimento ágil: O DevOps pode ser interpretado como uma
+consequência do Agile - o desenvolvimento ágil de software prescreve uma
+estreita colaboração de clientes, gerenciamento de produtos,
+desenvolvedores e (às vezes) controle de qualidade para preencher as
+lacunas e iterar rapidamente para um produto melhor; O DevOps reconhece
+que a entrega de serviços e como o aplicativo e os sistemas interagem
+também são uma parte fundamental da proposta de valor para o cliente e,
+portanto, a equipe de produto precisa incluir essas preocupações como um
+item de nível superior. Nesta perspectiva, o DevOps está simplesmente
+estendendo os princípios do Agile além dos limites do código para todo o
+serviço entregue;
+
+ Quais problemas levaram à criação do DevOps?
+
+- Por um lado, os usuários corporativos exigem mudanças - novos recursos, novos
+serviços, novos fluxos de receita - o mais rápido possível;
+- Ao mesmo tempo, eles também querem um sistema estável e livre de falhas e
+interrupções;
+- Isso cria um problema no qual as empresas sentem que precisam escolher entre
+entregar mudanças rapidamente e lidar com um ambiente de produção instável
+ou manter um ambiente estável, porém obsoleto;
+- Nenhuma das opções é aceitável para os executivos da empresa. E nenhum dos
+dois cenários permite que uma empresa forneça as melhores soluções possíveis
+para seus clientes;
+Os desenvolvedores estão dispostos a disponibilizar software cada vez mais
+rápido - afinal, é isso que eles normalmente são contratados para realizar;
+- A operação, por outro lado, sabe que mudanças rápidas, sem as devidas
+salvaguardas, pode desestabilizar o sistema, o que vai diretamente contra o seu
+estatuto;
+- O DevOps foi criado para resolver esse dilema, integrando todos os associados
+ao desenvolvimento e implantação de software - usuários de negócios,
+desenvolvedores, engenheiros de teste, engenheiros de segurança,
+administradores de sistemas entre outros, em um único fluxo de trabalho
+altamente automatizado;
+-O DevOps prevê um foco compartilhado: entrega rápida de software de alta
+qualidade que atenda a todos os requisitos do usuário, mantendo a integridade
+e a estabilidade de todo o sistema;
+
+DevOps, Agile e SRE
+• As empresas costumam falar sobre mudar para o DevOps, contratar SREs
+(System Reliability Engineering) e se tornar mais ágeis, mas como esses termos
+se relacionam?
+➢ Agile e Lean é como as equipes interagem, com ciclos de desenvolvimento
+curtos e feedback rápido. O Agile se concentra na cultura e é independente
+de quais ferramentas são usadas;
+➢ DevOps é como as organizações de engenharia colaboram usando equipes
+multifuncionais. O DevOps começa com a cultura e direciona para as
+ferramentas;
